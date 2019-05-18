@@ -5,6 +5,11 @@ jawaban soal no 1 sampai 5 menggunakan javascript
 
 jawaban soal no 6 menggunakan PHP dan MySQL
 
+software yang diperlukan:
+- web browser
+- web server (XAMPP)
+- code Editor (VS Code)
+
 *tambahan dari jawaban no 1
 
 REST API = Penghubung antara dua aplikasi atau lebih pada suatu jaringan dengan aturan - aturan tertentu
