@@ -7,7 +7,7 @@ jawaban soal no 6 menggunakan PHP dan MySQL
 
 software yang diperlukan:
 - web browser (Goggle Chrome)
-- web server (XAMPP)
+- web server (XAMPP) (untuk nomor 6)
 - code Editor (VS Code)
 
 *tambahan dari jawaban no 1
