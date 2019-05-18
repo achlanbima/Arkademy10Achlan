@@ -33,5 +33,4 @@ function biodata(){
   
   return JSON.stringify(data);
 }
-console.log(JSON.parse(biodata()));
 console.log(biodata());
