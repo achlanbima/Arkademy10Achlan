@@ -1,5 +1,5 @@
 function cetak_gambar(param){
-  output = "";
+  let output = "";
   let oY = param-1;
   for(let x = 0; x < param; x++){
     for(let y = 0; y < param; y++){
